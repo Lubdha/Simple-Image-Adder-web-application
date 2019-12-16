@@ -71,11 +71,15 @@ Both input images can also be viewed in the interactive visualization by navigat
 
 ## References:
 
-https://www.w3schools.com/html/
-https://www.w3schools.com/css/
-https://www.w3schools.com/js/
-https://nilearn.github.io/plotting/index.html
-https://www.youtube.com/watch?v=BUmUV8YOzgM&list=PLF2JzgCW6-YY_TZCmBrbOpgx5pSNBD0_L
+•	https://www.w3schools.com/html/
+
+•	https://www.w3schools.com/css/
+
+•	https://www.w3schools.com/js/
+
+•	https://nilearn.github.io/plotting/index.html
+
+•	https://www.youtube.com/watch?v=BUmUV8YOzgM&list=PLF2JzgCW6-YY_TZCmBrbOpgx5pSNBD0_L
 
 
 
