@@ -16,19 +16,20 @@ nilearn library
 
 ## Instructions: 
 
-1. Set up:
+### A. Set up:
 
-  •	Install python 3.7
-  
-  •	Install Flask using command
-  
-      pip install Flask
-     
-  •	Install nilearn using command:
-       
-      pip install nilearn
-      
-2.  How to run:
+    •	Install python 3.7
+
+    •	Install Flask using command
+
+        pip install Flask
+
+    •	Install nilearn using command:
+
+        pip install nilearn
+
+
+### B.  How to run:
 
   1.	Download the repository by following the github link <INSERT LINK HERE> Once the repository is downloaded, a folder    "app" will be created.
   2. Open terminal, Make "app" from above step as your current working directory. 
@@ -43,6 +44,7 @@ nilearn library
        ~~~
 
   'flask run' launches the application.
+  
   4. Open any browser and go to http://localhost:5000/   
 
   5. To upload images to the server for processing, click the 'Choose File' button and select the two 3D images and click   the Upload button. 
