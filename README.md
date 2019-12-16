@@ -17,9 +17,13 @@ nilearn library
 
   •	Install python 3.7
   •	Install Flask using command:
+  
       ~~~ pip install Flask
+      ~~~
   •	Install nilearn using command:
+  
       ~~~ pip install nilearn
+      ~~~
 
 2.  How to run:
 
@@ -48,6 +52,7 @@ Once the images are uploaded and the server completes the addition process, clic
 Two input images can also be viewed in the interactive visualization by navigating to "Input Image 1" or "Input Image 2"
 
 ![Uploading first.png…]()
+
 
 
 ## References:
