@@ -22,9 +22,9 @@ nilearn library
   
   •	Install Flask using command:
   
-      ~~~ 
+      ~~ 
       pip install Flask
-      ~~~
+      ~~
       
   •	Install nilearn using command:
   
