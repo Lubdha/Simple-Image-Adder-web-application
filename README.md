@@ -65,7 +65,8 @@ Once the images are uploaded and the server completes the addition process, clic
 
 Both input images can also be viewed in the interactive visualization by navigating to "Input Image 1" or "Input Image 2"
 
-  <img width="1436" alt="first" src="https://user-images.githubusercontent.com/39939776/70932965-c7ec0500-1fef-11ea-8932-05e4d5f8edca.png">
+   <img width="1323" alt="Screen Shot 2019-12-16 at 12 13 06 PM" src="https://user-images.githubusercontent.com/39939776/70939673-911ceb80-1ffd-11ea-9660-5e1bf88088fc.png">
+
 
 
 
