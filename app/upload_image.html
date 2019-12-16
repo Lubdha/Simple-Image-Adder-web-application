@@ -1,0 +1,68 @@
+{% extends "public_template.html" %}
+{% block title %}Upload image{% endblock %}
+{% block main %}
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+
+      <h1>Upload images</h1>
+      <hr>
+
+      <form action="/" method="POST" enctype="multipart/form-data">
+
+        <script>
+          function readDispImg(inputImg1){
+        
+            if (inputImg1.files[0]){
+              var reader = new FileReader();
+              reader.onload = function(e){
+                $('#image1')
+                  .attr('src', e.target.result);
+              };
+              }
+              reader.readAsDataURL(inputImg1.files[0]);
+        
+            }
+        
+          function readDispImg2(inputImg2){
+            if (inputImg2.files[0]){
+              var reader = new FileReader();
+              reader.onload = function(e){
+                $('#image2')
+                  .attr('src', e.target.result);
+              };
+              }
+              reader.readAsDataURL(inputImg2.files[0]);
+            }
+        </script>
+
+        <div id ="img_div1" class="imageDivs">
+          <h3 id = "img1_heading">Input Image 1</h3>
+          <input type="file" name="image1" id="image1" accept=".gz" onchange="readDispImg(this)";>
+          <!-- <label class="custom-file-label" for="image">Select image...</label> -->
+          <br><br>
+          <!-- <img id="image1" src="#" class="images"> -->
+        </div>
+
+
+
+        <div id ="img_div2" class="imageDivs">
+          <h3 id = "img2_heading">Input Image 2</h3>
+          <input type="file" name="image2" id="image2" accept=".gz" onchange="readDispImg(this)";>
+          <!-- <label class="custom-file-label" for="image">Select image...</label> -->
+          <br><br>
+          <!-- <img id="image1" src="#" class="images"> -->
+        </div>
+        <div>
+          <button type="submit" class="btn btn-primary">Upload</button>
+        </div>
+
+      </form>
+
+
+    </div>
+  </div>
+</div>
+
+{% endblock %}
