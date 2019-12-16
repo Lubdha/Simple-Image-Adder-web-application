@@ -18,15 +18,19 @@ nilearn library
 
 ### A. Set up:
 
-    •	Install python 3.7
+•	Install python 3.7
 
-    •	Install Flask using command
+•	Install Flask using command
+    ~~~
 
-        pip install Flask
+    pip install Flask
+    ~~~
 
-    •	Install nilearn using command:
+•	Install nilearn using command:
+    ~~~
 
-        pip install nilearn
+    pip install nilearn
+    ~~~
 
 
 ### B.  How to run:
@@ -57,7 +61,7 @@ Once the images are uploaded and the server completes the addition process, clic
   <img width="774" alt="output" src="https://user-images.githubusercontent.com/39939776/70932778-5dd36000-1fef-11ea-8ff2-426aa53b429a.png">
 
 
-Two input images can also be viewed in the interactive visualization by navigating to "Input Image 1" or "Input Image 2"
+Both input images can also be viewed in the interactive visualization by navigating to "Input Image 1" or "Input Image 2"
 
   <img width="1436" alt="first" src="https://user-images.githubusercontent.com/39939776/70932965-c7ec0500-1fef-11ea-8932-05e4d5f8edca.png">
 
