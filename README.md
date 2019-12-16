@@ -1,9 +1,11 @@
 # Simple-Image-adder-web-application
 
 ## Introduction:
+
 A simple Flask based web application that accepts two 3D images of same size, adds those images and returns an output image. This output image is an interactive 3D image which allows the user to fix one axis and view the image in the other two axes, exposing different cross sections of the image.
 
 ## Technologies used:
+
 Flask
 Python 3.7
 HTML/CSS/JS
@@ -12,6 +14,7 @@ nilearn library
 ## Instructions: 
 
 1. Set up:
+
   •	Install python 3.7
   •	Install Flask using command:
       ~~~ pip install Flask
