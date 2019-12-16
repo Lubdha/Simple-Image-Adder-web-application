@@ -18,11 +18,13 @@ nilearn library
   •	Install python 3.7
   •	Install Flask using command:
   
-      ~~~ pip install Flask
+      ~~~ 
+      pip install Flask
       ~~~
   •	Install nilearn using command:
   
-      ~~~ pip install nilearn
+      ~~~ 
+      pip install nilearn
       ~~~
 
 2.  How to run:
@@ -31,10 +33,11 @@ nilearn library
   2. Open terminal, Make "app" from above step as your current working directory. 
   3. Run the below commands in the terminal
   
-       ~~~ export FLASK_ENV=development
-        export FLASK_APP=app.py
-        flask run 
-        ~~~
+       ~~~ 
+       export FLASK_ENV=development
+       export FLASK_APP=app.py
+       flask run 
+       ~~~
 
   'flask run' launches the application.
   4. Open any browser and go to http://localhost:5000/   
