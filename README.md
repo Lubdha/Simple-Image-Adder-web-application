@@ -7,8 +7,11 @@ A simple Flask based web application that accepts two 3D images of same size, ad
 ## Technologies used:
 
 Flask
+
 Python 3.7
+
 HTML/CSS/JS
+
 nilearn library
 
 ## Instructions: 
@@ -16,11 +19,13 @@ nilearn library
 1. Set up:
 
   •	Install python 3.7
+  
   •	Install Flask using command:
   
       ~~~ 
       pip install Flask
       ~~~
+      
   •	Install nilearn using command:
   
       ~~~ 
