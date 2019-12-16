@@ -22,17 +22,12 @@ nilearn library
   
   •	Install Flask using command
   
-    
       pip install Flask
      
-     
-      
   •	Install nilearn using command:
-  
        
       pip install nilearn
       
-
 2.  How to run:
 
   1.	Download the repository by following the github link <INSERT LINK HERE> Once the repository is downloaded, a folder    "app" will be created.
@@ -62,7 +57,8 @@ Once the images are uploaded and the server completes the addition process, clic
 
 Two input images can also be viewed in the interactive visualization by navigating to "Input Image 1" or "Input Image 2"
 
-![Uploading first.png…]()
+  <img width="1436" alt="first" src="https://user-images.githubusercontent.com/39939776/70932965-c7ec0500-1fef-11ea-8932-05e4d5f8edca.png">
+
 
 
 
